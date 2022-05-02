@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '6ecee1e89a9bc1ebbb1288f468836b845251f2db',
+        'reference' => '5e7a667d0192f557cbfd98a922aa4a8b41882300',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -401,12 +401,12 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '6ecee1e89a9bc1ebbb1288f468836b845251f2db',
+            'reference' => '5e7a667d0192f557cbfd98a922aa4a8b41882300',
             'dev_requirement' => false,
         ),
         'laravel/passport' => array(
